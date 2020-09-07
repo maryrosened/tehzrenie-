@@ -5,3 +5,4 @@
 4. https://www.youtube.com/watch?v=Q0IPYlIK-4A&ab_channel=Pysource
 5. https://www.youtube.com/watch?v=CCOXg75HkvM&feature=emb_logo&ab_channel=sentdex
 6. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+7. https://www.youtube.com/watch?v=SJCu1d4xakQ&t=1030s&ab_channel=Pysource
